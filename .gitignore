@@ -1,0 +1,14 @@
+# Mac system files
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+.venv/
+.env
+
+# Spark temporary and metadata files
+_SUCCESS
+*.crc
